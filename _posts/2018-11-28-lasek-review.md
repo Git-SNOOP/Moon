@@ -26,7 +26,7 @@ comments: true
 <figure>
     <img src="https://git-snoop.github.io/assets/img/lasekpost/lasek_examine.jpg">
     <div style="color: #C0C0C0;">
-        <figcaption><I><small>시력 검사 결과. 가끔 친구와 누가 더 눈 나쁘냐고 하면서 안경을 바꿔쓰기도 하는데 나보다 눈 나쁜사람을 만나본 기억이 손에 꼽는다.</I></small></figcaption>
+        <figcaption>*시력 검사 결과. 가끔 친구와 누가 더 눈 나쁘냐고 하면서 안경을 바꿔쓰기도 하는데 나보다 눈 나쁜사람을 만나본 기억이 손에 꼽는다.*</figcaption>
     </div>
 </figure>
 </br>
